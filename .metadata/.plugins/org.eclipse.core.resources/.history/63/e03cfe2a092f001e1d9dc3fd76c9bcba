@@ -1,0 +1,7 @@
+Feature: Application Login
+
+  Scenario: Homepage default login
+    Given User is on net banking login page
+    When User login into app with Uname and Pwd
+    Then Home page is populated
+    And cards are displayed
