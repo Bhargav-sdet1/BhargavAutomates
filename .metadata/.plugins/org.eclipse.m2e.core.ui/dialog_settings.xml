@@ -71,6 +71,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\bharg\bhargav-eclipse-workspace\RestAssuredProject"/>
 			<item value="C:\Users\bharg\eclipse-workspace\RestAssuredProject"/>
 		</list>
 		<list key="projectNameTemplate">
